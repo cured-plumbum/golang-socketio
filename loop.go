@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	queueBufferSize = 500
+	queueBufferSize = 5000000
 )
 
 var (
